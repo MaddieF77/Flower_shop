@@ -1,3 +1,6 @@
 * {
   color: red
 }
+p {
+  color: RGB(100,100,100);
+}
